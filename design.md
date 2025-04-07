@@ -1,0 +1,3 @@
+# Design Doc
+
+This tool aims to reproduce V8 crashes deterministically...
